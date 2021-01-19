@@ -1,0 +1,100 @@
+.jumbotron
+{
+    text-align: center;
+    background: none;
+}
+.sectionlight
+{
+    background-color: #eceeef;
+}
+.SectionDark
+{
+    background-color: #cccccc;
+    padding: 2rem;
+}
+.middlesection
+{
+    padding-left: 2rem;
+}
+.carousel-adjust
+{
+    padding-bottom: 1rem;
+}
+.cool
+{
+    text-align: center;
+    padding: 2rem;
+}
+button.coolbtn
+{
+    background-color: blue;
+    color: white;
+}
+h5.modal-title
+{
+    margin: auto;
+}
+.modalform{
+    padding: 2rem;
+}
+.adjust
+{
+    padding-top: 2rem;
+}
+.adjustinside
+{
+    text-align: center;
+}
+.btncenter
+{
+    display: block;
+    margin: auto;
+    background-color: red;
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 68%;
+}
+.first
+{
+    padding: 2rem;
+}
+.fa-facebook-square
+{
+   color: blue;
+    font-size: 60px;
+    padding: 0.8rem;
+}
+.fa-instagram
+{
+    color: white;
+    font-size: 60px;
+    padding: 0.8rem;
+}
+.fa-twitter
+{
+    color: #33adff;
+    font-size: 60px;
+    padding: 0.8rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
